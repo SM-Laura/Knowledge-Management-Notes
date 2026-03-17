@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "ae656b6453e510ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0515397031abb95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "656649a87ad4fd50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0a84416e118d30d",
+    "type": "split",
+    "children": [
+      {
+        "id": "05508ec27f65a140",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7635283792abb019",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a4d42c2b1c39ebca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bb0d57ca88e7407c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56f132a121c3e795",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8902d774a6a6366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dc79de748907ff0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-03-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-03-17"
+            }
+          },
+          {
+            "id": "97d8e87c111299ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-03-17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-03-17"
+            }
+          },
+          {
+            "id": "bf3ac79b62228d12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "53ac27d5302fbde8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8521a534ab448ef2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-03-17.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-03-17"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7635283792abb019",
+  "lastOpenFiles": [
+    "2026-03-17.md",
+    "Untitled.canvas",
+    "concepts/MOC knowledge-management-in-ai-era.md.md",
+    "concepts/User centered knowledge-experience-design.md",
+    "concepts/knowledge-graphs-and-taxonomy.md",
+    "concepts/knowledge-curation-for-ai.md",
+    "concepts/ai-ready-knowledge-bases.md",
+    "concepts/analytics-for-documentation.md",
+    "concepts/content automation & docs-as-code.md",
+    "knowledge-experience-design.md",
+    "concepts/ai-governance-and-prompting.md",
+    "concepts/domain-expertise-strategy.md",
+    "concepts/ai-assisted-workflows.md",
+    "concepts/information-architecture.md"
+  ]
+}
