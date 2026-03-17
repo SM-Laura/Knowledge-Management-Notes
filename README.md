@@ -14,7 +14,6 @@ and documentation practices to technical concepts and tools I work with day to d
 - `/projects` — notes tied to active work or side projects
 - `/learning` — courses, books, talks, and key takeaways
 - `/reference` — templates, checklists, and reusable resources
-- `/journal` — daily notes and reflections
 
 ## Why Git
 
