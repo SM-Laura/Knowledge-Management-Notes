@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/Top AI optimization techniques.md",
+                "file": "learning/Workshop facilitation - course.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top AI optimization techniques"
+              "title": "Workshop facilitation - course"
+            }
+          },
+          {
+            "id": "8b92fd1cc6327e61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/State of Docs Report 2026/Measuring docs success.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Measuring docs success"
+            }
+          },
+          {
+            "id": "de5a97fb1f9dd091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/Knowledge graphs/Use A Knowledge Graph To Start Making AI Useful.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use A Knowledge Graph To Start Making AI Useful"
+            }
+          },
+          {
+            "id": "10793f4ec24c05bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/Knowledge graphs/Use A Knowledge Graph To Start Making AI Useful.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use A Knowledge Graph To Start Making AI Useful"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,37 +226,51 @@
       "bases:Create new base": false
     }
   },
-  "active": "241a0f3d0840a91c",
+  "active": "10793f4ec24c05bf",
   "lastOpenFiles": [
-    "reference/State of Docs Report 2026/Docs and professional development.md",
-    "reference/State of Docs Report 2026/Docs Tooling.md",
-    "reference/State of Docs Report 2026/Measuring docs success.md",
-    "reference/State of Docs Report 2026/AI and documentation creation.md",
-    "reference/State of Docs Report 2026/AI and documentation consumption.md",
-    "learning/Top AI optimization techniques.md",
-    "reference/State of Docs Report 2026/Purchase decisions and business impact.md",
-    "reference/Untitled/Untitled.md",
-    "reference/State of Docs Report 2026",
-    "README.md",
+    "learning/Knowledge graphs/Using Teamwork Graph on Confluence.md",
+    "learning/Knowledge graphs/Forrester Thought Leadership Paper on how to make AI useful.pdf",
     "learning/Everyday AI - Ask Better Questions.md",
-    "reference/State of Docs Report 2026",
-    "learning/Explore salesforce AI.md",
-    "LICENSE",
-    "learning/Get Started with Artificial Intelligence.md",
-    "learning/Move from individual contributor to manager.md",
-    "learning/Workshop facilitation - course.md",
+    "learning/State of Docs Report 2026/AI and documentation creation.md",
     "learning/Writing with Flair - course.md",
+    "learning/Workshop facilitation - course.md",
+    "learning/Move from individual contributor to manager.md",
     "learning/Infographics Basics.md",
-    "2026-03-17.md",
-    "Untitled.canvas",
-    "concepts/MOC knowledge-management-in-ai-era.md.md",
     "concepts/User centered knowledge-experience-design.md",
-    "concepts/knowledge-graphs-and-taxonomy.md",
+    "concepts/domain-expertise-strategy.md",
+    "learning/Knowledge graphs",
+    "learning/Knowledge graphs/Use A Knowledge Graph To Start Making AI Useful.md",
     "concepts/knowledge-curation-for-ai.md",
+    "learning/State of Docs Report 2026/AI and documentation consumption.md",
+    "learning/State of Docs Report 2026/Docs and professional development.md",
     "concepts/ai-ready-knowledge-bases.md",
-    "concepts/analytics-for-documentation.md",
-    "concepts/content automation & docs-as-code.md",
-    "knowledge-experience-design.md",
-    "concepts/ai-governance-and-prompting.md"
+    "concepts/ai-governance-and-prompting.md",
+    "concepts/ai-assisted-workflows.md",
+    "reference/images for Use A Knowledge Graph To Start Making AI Useful.md",
+    "reference/images for Use A Knowledge Graph To Start Making AI Useful.md",
+    "reference/Pasted image 20260326115227.png",
+    "learning/State of Docs Report 2026/Measuring docs success.md",
+    "learning/Explore Salesforce AI.docx",
+    "learning/Meet Agent force.docx",
+    "learning/Get Hands On with Agentforce.docx",
+    "learning/Get Started with Artificial Intelligence Basics - SF Trailhead.docx",
+    "reference/Pasted image 20260326120356.png",
+    "reference/Pasted image 20260326120340.png",
+    "reference/Pasted image 20260326120052.png",
+    "reference/Pasted image 20260326115910.png",
+    "reference/Pasted image 20260326115609.png",
+    "reference/Pasted image 20260326115513.png",
+    "reference/Pasted image 20260326115353.png",
+    "reference/Pasted image 20260326115330.png",
+    "learning/Top AI optimization techniques.md",
+    "learning/Get Started with Artificial Intelligence.md",
+    "learning/Explore salesforce AI.md",
+    "learning/State of Docs Report 2026/Docs Tooling.md",
+    "learning/State of Docs Report 2026/Purchase decisions and business impact.md",
+    "reference/Untitled/Untitled.md",
+    "learning/State of Docs Report 2026",
+    "learning/State of Docs Report 2026",
+    "LICENSE",
+    "Untitled.canvas"
   ]
 }

@@ -39,15 +39,11 @@ Christopher Gales observes that the shift has reversed conventional wisdom about
 
 The question of whether documentation teams are writing for two audiences — or whether writing well for one serves the other — remains the central tension. The practitioners who are testing rather than guessing are the ones finding real answers.
 
-38%
-
-have **deployed conversational AI interfaces** — the most-shipped AI feature
+38%  have **deployed conversational AI interfaces** — the most-shipped AI feature
 
 ![](https://framerusercontent.com/images/q8VnUgmonDwP62jKo3YoPoCXxSA.svg?width=80&height=80)
 
-67%
-
-say **AI has made docs better;** only 7% say worse
+67% say **AI has made docs better;** only 7% say worse
 
 ![](https://framerusercontent.com/images/kbzIw80FZYS8XOkC7SZpXheYElc.svg?width=80&height=80)
 
